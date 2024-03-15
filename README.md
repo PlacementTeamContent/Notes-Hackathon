@@ -1,10 +1,12 @@
 # Notes-Hackathon 👍
 
-
-- Come up with a name for team
-! green
-- a name for project
-
+>[! Important]
+>
+>Come up with a name for team
+> green
+>a name for project
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 ## Team 1
 
 Team Members: Vivek and Disha 
